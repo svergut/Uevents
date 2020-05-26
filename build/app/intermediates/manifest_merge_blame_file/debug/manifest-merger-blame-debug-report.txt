@@ -12,14 +12,14 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->D:\FlutterProjects\uevents\android\app\src\debug\AndroidManifest.xml:6:5-66
-14-->D:\FlutterProjects\uevents\android\app\src\debug\AndroidManifest.xml:6:22-64
+14-->D:\FlutterProjects\Uevents1\android\app\src\debug\AndroidManifest.xml:6:5-66
+14-->D:\FlutterProjects\Uevents1\android\app\src\debug\AndroidManifest.xml:6:22-64
 15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-15-->[:image_picker] D:\FlutterProjects\uevents\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
-15-->[:image_picker] D:\FlutterProjects\uevents\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-77
+15-->[:image_picker] D:\FlutterProjects\Uevents1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+15-->[:image_picker] D:\FlutterProjects\Uevents1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-77
 16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-16-->[:image_picker] D:\FlutterProjects\uevents\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-81
-16-->[:image_picker] D:\FlutterProjects\uevents\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-78
+16-->[:image_picker] D:\FlutterProjects\Uevents1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-81
+16-->[:image_picker] D:\FlutterProjects\Uevents1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-78
 17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 17-->[com.firebaseui:firebase-ui-auth:6.2.0] C:\Users\DeviCe\.gradle\caches\transforms-2\files-2.1\973fd6ef667268fab0f2f1a48824694f\jetified-firebase-ui-auth-6.2.0\AndroidManifest.xml:12:5-79
 17-->[com.firebaseui:firebase-ui-auth:6.2.0] C:\Users\DeviCe\.gradle\caches\transforms-2\files-2.1\973fd6ef667268fab0f2f1a48824694f\jetified-firebase-ui-auth-6.2.0\AndroidManifest.xml:12:22-76
@@ -31,39 +31,39 @@
 23         FlutterApplication and put your custom class here.
 24    -->
 25    <application
-25-->D:\FlutterProjects\uevents\android\app\src\main\AndroidManifest.xml:8:5-29:19
+25-->D:\FlutterProjects\Uevents1\android\app\src\main\AndroidManifest.xml:8:5-29:19
 26        android:name="io.flutter.app.FlutterApplication"
-26-->D:\FlutterProjects\uevents\android\app\src\main\AndroidManifest.xml:9:9-57
+26-->D:\FlutterProjects\Uevents1\android\app\src\main\AndroidManifest.xml:9:9-57
 27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 27-->[androidx.core:core:1.1.0] C:\Users\DeviCe\.gradle\caches\transforms-2\files-2.1\3aaf6e5219b7f981ec263df919098c6f\core-1.1.0\AndroidManifest.xml:24:18-86
 28        android:debuggable="true"
 29        android:icon="@mipmap/ic_launcher"
-29-->D:\FlutterProjects\uevents\android\app\src\main\AndroidManifest.xml:11:9-43
+29-->D:\FlutterProjects\Uevents1\android\app\src\main\AndroidManifest.xml:11:9-43
 30        android:label="uevents" >
-30-->D:\FlutterProjects\uevents\android\app\src\main\AndroidManifest.xml:10:9-32
+30-->D:\FlutterProjects\Uevents1\android\app\src\main\AndroidManifest.xml:10:9-32
 31        <activity
-31-->D:\FlutterProjects\uevents\android\app\src\main\AndroidManifest.xml:12:9-23:20
+31-->D:\FlutterProjects\Uevents1\android\app\src\main\AndroidManifest.xml:12:9-23:20
 32            android:name="com.example.uevents.MainActivity"
-32-->D:\FlutterProjects\uevents\android\app\src\main\AndroidManifest.xml:13:13-41
+32-->D:\FlutterProjects\Uevents1\android\app\src\main\AndroidManifest.xml:13:13-41
 33            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-33-->D:\FlutterProjects\uevents\android\app\src\main\AndroidManifest.xml:16:13-163
+33-->D:\FlutterProjects\Uevents1\android\app\src\main\AndroidManifest.xml:16:13-163
 34            android:hardwareAccelerated="true"
-34-->D:\FlutterProjects\uevents\android\app\src\main\AndroidManifest.xml:17:13-47
+34-->D:\FlutterProjects\Uevents1\android\app\src\main\AndroidManifest.xml:17:13-47
 35            android:launchMode="singleTop"
-35-->D:\FlutterProjects\uevents\android\app\src\main\AndroidManifest.xml:14:13-43
+35-->D:\FlutterProjects\Uevents1\android\app\src\main\AndroidManifest.xml:14:13-43
 36            android:theme="@style/LaunchTheme"
-36-->D:\FlutterProjects\uevents\android\app\src\main\AndroidManifest.xml:15:13-47
+36-->D:\FlutterProjects\Uevents1\android\app\src\main\AndroidManifest.xml:15:13-47
 37            android:windowSoftInputMode="adjustResize" >
-37-->D:\FlutterProjects\uevents\android\app\src\main\AndroidManifest.xml:18:13-55
+37-->D:\FlutterProjects\Uevents1\android\app\src\main\AndroidManifest.xml:18:13-55
 38            <intent-filter>
-38-->D:\FlutterProjects\uevents\android\app\src\main\AndroidManifest.xml:19:13-22:29
+38-->D:\FlutterProjects\Uevents1\android\app\src\main\AndroidManifest.xml:19:13-22:29
 39                <action android:name="android.intent.action.MAIN" />
-39-->D:\FlutterProjects\uevents\android\app\src\main\AndroidManifest.xml:20:17-68
-39-->D:\FlutterProjects\uevents\android\app\src\main\AndroidManifest.xml:20:25-66
+39-->D:\FlutterProjects\Uevents1\android\app\src\main\AndroidManifest.xml:20:17-68
+39-->D:\FlutterProjects\Uevents1\android\app\src\main\AndroidManifest.xml:20:25-66
 40
 41                <category android:name="android.intent.category.LAUNCHER" />
-41-->D:\FlutterProjects\uevents\android\app\src\main\AndroidManifest.xml:21:17-76
-41-->D:\FlutterProjects\uevents\android\app\src\main\AndroidManifest.xml:21:27-74
+41-->D:\FlutterProjects\Uevents1\android\app\src\main\AndroidManifest.xml:21:17-76
+41-->D:\FlutterProjects\Uevents1\android\app\src\main\AndroidManifest.xml:21:27-74
 42            </intent-filter>
 43        </activity>
 44        <!--
@@ -71,38 +71,38 @@
 46             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 47        -->
 48        <meta-data
-48-->D:\FlutterProjects\uevents\android\app\src\main\AndroidManifest.xml:26:9-28:33
+48-->D:\FlutterProjects\Uevents1\android\app\src\main\AndroidManifest.xml:26:9-28:33
 49            android:name="flutterEmbedding"
-49-->D:\FlutterProjects\uevents\android\app\src\main\AndroidManifest.xml:27:13-44
+49-->D:\FlutterProjects\Uevents1\android\app\src\main\AndroidManifest.xml:27:13-44
 50            android:value="2" />
-50-->D:\FlutterProjects\uevents\android\app\src\main\AndroidManifest.xml:28:13-30
+50-->D:\FlutterProjects\Uevents1\android\app\src\main\AndroidManifest.xml:28:13-30
 51
 52        <service
-52-->[:firebase_auth] D:\FlutterProjects\uevents\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+52-->[:firebase_auth] D:\FlutterProjects\Uevents1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
 53            android:name="com.google.firebase.components.ComponentDiscoveryService"
-53-->[:firebase_auth] D:\FlutterProjects\uevents\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+53-->[:firebase_auth] D:\FlutterProjects\Uevents1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
 54            android:directBootAware="true"
 54-->[com.google.firebase:firebase-common:19.3.0] C:\Users\DeviCe\.gradle\caches\transforms-2\files-2.1\9e2bebc85215be5f0d104cd909c4758f\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
 55            android:exported="false" >
 55-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\DeviCe\.gradle\caches\transforms-2\files-2.1\a83bb62cb43b672cf00b874e0ee6110c\firebase-auth-19.2.0\AndroidManifest.xml:35:13-37
 56            <meta-data
-56-->[:firebase_auth] D:\FlutterProjects\uevents\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+56-->[:firebase_auth] D:\FlutterProjects\Uevents1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 57                android:name="com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar"
-57-->[:firebase_auth] D:\FlutterProjects\uevents\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-122
+57-->[:firebase_auth] D:\FlutterProjects\Uevents1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-122
 58                android:value="com.google.firebase.components.ComponentRegistrar" />
-58-->[:firebase_auth] D:\FlutterProjects\uevents\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+58-->[:firebase_auth] D:\FlutterProjects\Uevents1\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 59            <meta-data
-59-->[:cloud_firestore] D:\FlutterProjects\uevents\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+59-->[:cloud_firestore] D:\FlutterProjects\Uevents1\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 60                android:name="com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar"
-60-->[:cloud_firestore] D:\FlutterProjects\uevents\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-133
+60-->[:cloud_firestore] D:\FlutterProjects\Uevents1\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-133
 61                android:value="com.google.firebase.components.ComponentRegistrar" />
-61-->[:cloud_firestore] D:\FlutterProjects\uevents\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+61-->[:cloud_firestore] D:\FlutterProjects\Uevents1\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 62            <meta-data
-62-->[:firebase_core] D:\FlutterProjects\uevents\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+62-->[:firebase_core] D:\FlutterProjects\Uevents1\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 63                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar"
-63-->[:firebase_core] D:\FlutterProjects\uevents\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-123
+63-->[:firebase_core] D:\FlutterProjects\Uevents1\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-123
 64                android:value="com.google.firebase.components.ComponentRegistrar" />
-64-->[:firebase_core] D:\FlutterProjects\uevents\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+64-->[:firebase_core] D:\FlutterProjects\Uevents1\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 65            <meta-data
 65-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\DeviCe\.gradle\caches\transforms-2\files-2.1\a83bb62cb43b672cf00b874e0ee6110c\firebase-auth-19.2.0\AndroidManifest.xml:36:13-38:85
 66                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
@@ -118,21 +118,21 @@
 71        </service>
 72
 73        <provider
-73-->[:image_picker] D:\FlutterProjects\uevents\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-19:20
+73-->[:image_picker] D:\FlutterProjects\Uevents1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-19:20
 74            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-74-->[:image_picker] D:\FlutterProjects\uevents\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-82
+74-->[:image_picker] D:\FlutterProjects\Uevents1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-82
 75            android:authorities="com.UEvenetTest.UEvent.flutter.image_provider"
-75-->[:image_picker] D:\FlutterProjects\uevents\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-74
+75-->[:image_picker] D:\FlutterProjects\Uevents1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-74
 76            android:exported="false"
-76-->[:image_picker] D:\FlutterProjects\uevents\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+76-->[:image_picker] D:\FlutterProjects\Uevents1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
 77            android:grantUriPermissions="true" >
-77-->[:image_picker] D:\FlutterProjects\uevents\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-47
+77-->[:image_picker] D:\FlutterProjects\Uevents1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-47
 78            <meta-data
-78-->[:image_picker] D:\FlutterProjects\uevents\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:75
+78-->[:image_picker] D:\FlutterProjects\Uevents1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:75
 79                android:name="android.support.FILE_PROVIDER_PATHS"
-79-->[:image_picker] D:\FlutterProjects\uevents\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
+79-->[:image_picker] D:\FlutterProjects\Uevents1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
 80                android:resource="@xml/flutter_image_picker_file_paths" />
-80-->[:image_picker] D:\FlutterProjects\uevents\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
+80-->[:image_picker] D:\FlutterProjects\Uevents1\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
 81        </provider>
 82
 83        <meta-data

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\FlutterProjects\\uevents\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gsw\\values-gsw.xml",
+            "outputFile": "D:\\FlutterProjects\\Uevents1\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gsw\\values-gsw.xml",
             "map": [
                 {
                     "source": "C:\\Users\\DeviCe\\.gradle\\caches\\transforms-2\\files-2.1\\973fd6ef667268fab0f2f1a48824694f\\jetified-firebase-ui-auth-6.2.0\\res\\values-gsw\\values-gsw.xml",

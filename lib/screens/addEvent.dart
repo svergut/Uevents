@@ -1,10 +1,11 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_form_builder/flutter_form_builder.dart';
-import 'package:uevents/common/dateandtime.dart';
+import 'package:provider/provider.dart';
 import 'package:uevents/common/savebutton.dart';
 import 'package:uevents/common/toast.dart';
 import 'package:uevents/data/data.dart';
+import 'package:uevents/domain/user.dart';
 import 'package:uevents/services/database.dart';
 
 class AddEvent extends StatefulWidget {
@@ -16,8 +17,16 @@ class AddEvent extends StatefulWidget {
 
 class _AddEventState extends State<AddEvent> {
   final _fbKey = GlobalKey<FormBuilderState>();
+  User user;
 
-  Data event = Data('a', 'a', 'a', 'a', 'a', 'a',);
+  Data event = Data(
+    'id',
+    'a',
+    'a',
+    'a',
+    'a',
+    'a',
+  );
 
   @override
   void initState() {
@@ -30,7 +39,11 @@ class _AddEventState extends State<AddEvent> {
         buildToast('Пожалуйста, проверьте ивент');
         return;
       }
+      DateTime now = DateTime.now();
 
+      if(event.uid == 'id'){
+        event.uid = user.id + now.toString();
+      }
       await DatabaseService().addOrUpdateEvent(event);
       Navigator.of(context).pop();
     } else {
@@ -39,6 +52,7 @@ class _AddEventState extends State<AddEvent> {
   }
 
   Widget build(BuildContext context) {
+    user = Provider.of<User>(context);
     return Container(
         child: Scaffold(
             appBar: AppBar(

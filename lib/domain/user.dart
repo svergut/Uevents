@@ -4,8 +4,7 @@ class User{
   String id;
   String name;
 
-  User.fromFirebase(FirebaseUser user){
-    id = user.uid;
-    name = user.displayName;
+  User.fromFirebase(FirebaseUser fUser){
+    id = fUser.uid;
   }
 }

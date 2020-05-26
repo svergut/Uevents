@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\FlutterProjects\\uevents\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\FlutterProjects\\Uevents1\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\DeviCe\\.gradle\\caches\\transforms-2\\files-2.1\\5b8189b26ae1b4d34292ca3a7096c0e3\\material-1.0.0\\res\\values\\values.xml",
@@ -78,7 +78,7 @@
                     }
                 },
                 {
-                    "source": "D:\\FlutterProjects\\uevents\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "source": "D:\\FlutterProjects\\Uevents1\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -92,25 +92,6 @@
                         "startOffsets": "42286,42921,59152,59234,59338,59447,59567,60698",
                         "endColumns": "143,105,81,103,108,119,94,71",
                         "endOffsets": "42425,43022,59229,59333,59442,59562,59657,60765"
-                    }
-                },
-                {
-                    "source": "D:\\FlutterProjects\\uevents\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "353"
-                    },
-                    "to": {
-                        "startLines": "2459",
-                        "startColumns": "4",
-                        "startOffsets": "166442",
-                        "endLines": "2463",
-                        "endColumns": "12",
-                        "endOffsets": "166734"
                     }
                 },
                 {
@@ -130,6 +111,25 @@
                         "endLines": "3378,3388,3392,3398,3404,3410,3416,3422,4630",
                         "endColumns": "12,12,12,12,12,12,12,12,24",
                         "endOffsets": "228954,229541,229733,230012,230309,230592,230871,231160,306303"
+                    }
+                },
+                {
+                    "source": "D:\\FlutterProjects\\Uevents1\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "353"
+                    },
+                    "to": {
+                        "startLines": "2459",
+                        "startColumns": "4",
+                        "startOffsets": "166442",
+                        "endLines": "2463",
+                        "endColumns": "12",
+                        "endOffsets": "166734"
                     }
                 },
                 {
