@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:uevents/screens/landing.dart';
-import 'package:uevents/services/auth.dart';
+import 'package:Uevents/screens/landing.dart';
+import 'package:Uevents/services/auth.dart';
 
 import 'domain/user.dart';
 void main() => runApp(UEvents());

@@ -2,11 +2,11 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_form_builder/flutter_form_builder.dart';
 import 'package:provider/provider.dart';
-import 'package:uevents/common/savebutton.dart';
-import 'package:uevents/common/toast.dart';
-import 'package:uevents/data/data.dart';
-import 'package:uevents/domain/user.dart';
-import 'package:uevents/services/database.dart';
+import 'package:Uevents/common/savebutton.dart';
+import 'package:Uevents/common/toast.dart';
+import 'package:Uevents/data/data.dart';
+import 'package:Uevents/domain/user.dart';
+import 'package:Uevents/services/database.dart';
 
 class AddEvent extends StatefulWidget {
   AddEvent({Key key}) : super(key: key);

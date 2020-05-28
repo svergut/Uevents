@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:uevents/domain/user.dart';
-import 'package:uevents/screens/auth.dart';
-import 'package:uevents/screens/home.dart';
+import 'package:Uevents/domain/user.dart';
+import 'package:Uevents/screens/auth.dart';
+import 'package:Uevents/screens/home.dart';
 
 class LandingPages extends StatelessWidget {
   const LandingPages({Key key}) : super(key: key);

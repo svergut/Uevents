@@ -1,12 +1,12 @@
 # This is a generated file; do not edit or check into version control.
-cloud_firestore=C:\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore-0.13.5\\
-cloud_firestore_web=C:\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore_web-0.1.1+2\\
-firebase_auth=C:\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth-0.16.0\\
-firebase_auth_web=C:\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth_web-0.1.2\\
-firebase_core=C:\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core-0.4.4+3\\
-firebase_core_web=C:\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core_web-0.1.1+2\\
-flutter_keyboard_visibility=C:\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_keyboard_visibility-0.7.0\\
-flutter_plugin_android_lifecycle=C:\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_plugin_android_lifecycle-1.0.7\\
-fluttertoast=C:\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-4.0.1\\
-image_picker=C:\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\image_picker-0.6.6+4\\
-phone_number=C:\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\phone_number-0.6.2+2\\
+cloud_firestore=D:\\Downloads\\flutter_windows_v1.12.13+hotfix.9-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore-0.13.5\\
+cloud_firestore_web=D:\\Downloads\\flutter_windows_v1.12.13+hotfix.9-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore_web-0.1.1+2\\
+firebase_auth=D:\\Downloads\\flutter_windows_v1.12.13+hotfix.9-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth-0.16.0\\
+firebase_auth_web=D:\\Downloads\\flutter_windows_v1.12.13+hotfix.9-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth_web-0.1.2\\
+firebase_core=D:\\Downloads\\flutter_windows_v1.12.13+hotfix.9-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core-0.4.4+3\\
+firebase_core_web=D:\\Downloads\\flutter_windows_v1.12.13+hotfix.9-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core_web-0.1.1+2\\
+flutter_keyboard_visibility=D:\\Downloads\\flutter_windows_v1.12.13+hotfix.9-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_keyboard_visibility-0.7.0\\
+flutter_plugin_android_lifecycle=D:\\Downloads\\flutter_windows_v1.12.13+hotfix.9-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_plugin_android_lifecycle-1.0.7\\
+fluttertoast=D:\\Downloads\\flutter_windows_v1.12.13+hotfix.9-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-4.0.1\\
+image_picker=D:\\Downloads\\flutter_windows_v1.12.13+hotfix.9-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\image_picker-0.6.6+4\\
+phone_number=D:\\Downloads\\flutter_windows_v1.12.13+hotfix.9-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\phone_number-0.6.2+2\\

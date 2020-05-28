@@ -1,8 +1,8 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
-import 'package:uevents/domain/user.dart';
-import 'package:uevents/services/auth.dart';
-import 'package:uevents/common/toast.dart';
+import 'package:Uevents/domain/user.dart';
+import 'package:Uevents/services/auth.dart';
+import 'package:Uevents/common/toast.dart';
 class AuthorizationPage extends StatefulWidget {
   AuthorizationPage({Key key}) : super(key: key);
 

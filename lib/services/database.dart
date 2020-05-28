@@ -1,5 +1,5 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:uevents/data/data.dart';
+import 'package:Uevents/data/data.dart';
 
 class DatabaseService{
   final CollectionReference _eventCollection = Firestore.instance.collection('events');

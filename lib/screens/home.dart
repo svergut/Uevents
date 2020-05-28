@@ -1,9 +1,9 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:uevents/domain/eventCard.dart';
-import 'package:uevents/screens/addEvent.dart';
-import 'package:uevents/services/auth.dart';
+import 'package:Uevents/domain/eventCard.dart';
+import 'package:Uevents/screens/addEvent.dart';
+import 'package:Uevents/services/auth.dart';
 
 class Landing extends State<LandingPage> {
   @override

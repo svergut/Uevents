@@ -1,4 +1,4 @@
-name: uevents
+name: Uevents
 description: A new Flutter project.
 
 # The following defines the version and build number for your application.
@@ -17,18 +17,19 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
+  firebase_auth: ^0.16.0
+  cloud_firestore: ^0.13.5
+  event_bus: ^1.1.1
+  flutter_form_builder: ^3.10.1
+  provider: ^4.1.0-dev+1
+  fluttertoast: ^4.0.1
   flutter:
     sdk: flutter
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
-  firebase_auth: ^0.16.0
-  cloud_firestore: ^0.13.5
-  provider: ^4.1.2
-  fluttertoast: ^4.0.1
-  event_bus: ^1.1.1
-  flutter_form_builder: ^3.10.1
+  
 
 
 
